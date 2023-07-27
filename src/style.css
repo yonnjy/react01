@@ -1,0 +1,25 @@
+.App {
+    background: #ffb3b3;
+    height: 100px;
+    overflow: hidden;
+}
+
+.App.on {
+    height: 0;
+    transition: 0.5s;
+}
+
+.Toggle {
+    background: #d4f1ff;
+}
+
+.itm {
+    background: #fffddd;
+}
+
+.itm h2 {
+    color: green;
+}
+.itm p {
+    color: palevioletred;
+}
